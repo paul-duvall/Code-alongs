@@ -8,6 +8,6 @@ Completed using [this video](https://www.youtube.com/watch?v=wIx1O5Y5EB4&feature
 ## Rock, paper, scissors game
 
 Made with HTML / CSS / Javascript
-Completed using this video - https://www.youtube.com/watch?v=jaVNP3nIAv0&feature=em-uploademail
+Completed using [this video](https://www.youtube.com/watch?v=jaVNP3nIAv0&feature=em-uploademail).
 
 
